@@ -2,7 +2,7 @@
 
 Eu sou o Professor Huugo
 
-- Estou estudando na plaforma Alura
+- Estou estudando na plaforma [Alura]( https://cursos.alura.com.br )
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha orgazação e compartilhamento dos meus projetos desenvolvidos
 
@@ -14,4 +14,4 @@ huugo1807@gmail.com
 
 @huugo1807
 
-![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
+![]( https://media.tenor.com/opEBWw0uddoAAAAM/umm.gif )
