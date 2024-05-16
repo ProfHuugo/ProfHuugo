@@ -15,4 +15,4 @@ huugo1807@gmail.com
 
 
 
-![](https://tenor.com/pt-PT/view/nanami-jujutsu-kaisen-daddy-gif-11012498467213152606)
+![](https://tenor.com/pt-PT/view/umm-gif-11714145596342171098)
