@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Eu sou o Professor Huugo 🧔‍♂
+Eu sou o Professor Huugo 
 
 - Estou estudando na plataforma [Alura]( https://cursos.alura.com.br )
 - Estou me desenvolvendo na linguagem JavaScript
