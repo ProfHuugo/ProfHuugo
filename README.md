@@ -1,10 +1,11 @@
 ### Boas vindas ao meu perfil 💙
 
-Eu sou o Professor Huugo
+Eu sou o Professor Huugo 🧔‍♂
 
-- Estou estudando na plaforma [Alura]( https://cursos.alura.com.br )
+- Estou estudando na plataforma [Alura]( https://cursos.alura.com.br )
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha orgazação e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos !!
+
 
 
 
@@ -12,6 +13,6 @@ Eu sou o Professor Huugo
 
 huugo1807@gmail.com
 
-@huugo1807
 
-![]( https://media.tenor.com/opEBWw0uddoAAAAM/umm.gif )
+
+![](https://tenor.com/pt-PT/view/gojo-gojo-satoru-dancing-jjk-jujutsu-kaisen-gif-25819377)
