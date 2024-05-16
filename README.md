@@ -15,4 +15,4 @@ huugo1807@gmail.com
 
 
 
-![](https://tenor.com/pt-PT/view/gojo-gojo-satoru-dancing-jjk-jujutsu-kaisen-gif-25819377)
+![](https://tenor.com/pt-PT/view/nanami-jujutsu-kaisen-daddy-gif-11012498467213152606)
