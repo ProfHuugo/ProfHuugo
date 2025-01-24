@@ -1,18 +1,30 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💻 
 
-Eu sou o Professor Huugo 
+Eu sou o Professor Hugo !!
 
-- Estou estudando na plataforma [Alura]( https://cursos.alura.com.br )
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos !!
+
+Estou estudando nas plataformas:
+
+-    [Alura]( https://cursos.alura.com.br )
+-    [Udemy]( https://www.udemy.com )
+
+  
+# Estou me desenvolvendo nas linguages:
+         JavaScript
+         C# (C-Sharp)
+         Python
+         Front-end(HTML e CSS)
+  
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos !!
 
 
 
 
 ## Você pode entrar em contado comigo 📫
 
-huugo1807@gmail.com
+hdadev1807@gmail.com
 
-@huugo1807
+[huugo1807]( https://www.instagram.com/huugo1807/ )
 
-![]( https://github.com/ProfHuugo/ProfHuugo/assets/168227984/ad6709db-c921-4daa-8f3e-2a74014c5e5a )
+![]( https://media.tenor.com/AAmoI9l1JnkAAAAM/meme.gif )
+
